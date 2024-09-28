@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "API.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node API.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
